@@ -1,0 +1,15 @@
+{
+	"entrypoint" : "You\\YourPackage\\Route\\RootRoute"
+	, "devmode" : false
+	, "databases" : {
+		"main" : {
+			"connection" : ""
+			, "username" : ""
+			, "password" : ""
+		}
+	}
+	, "public": "/absolute/path/to/public"
+	, "logLevel": "query"
+	, "cacheAssets": 86000
+}
+

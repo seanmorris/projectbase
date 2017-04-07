@@ -1,0 +1,4 @@
+vendor/
+data/local/
+public/Static/
+composer.lock
